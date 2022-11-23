@@ -43,3 +43,5 @@ Console.WriteLine("Sayıların ortalaması: " + ortalama);
 Console.ReadLine();
 ```
 **Yukarıdaki örnekte bir for döngüsü içerisinde dizi kullanımını görüyoruz. Öncelikle 20 elemanlı bir dizi tanımladık. Ve bu 20 elemanın değerlerini kullanıcıdan console aracılığıyla aldık. For döngüsü kullanmasaydık 20 defa Console.ReadLine() yazmamız gerekiyordu. Bunun yerine döngülerin ve dizilerin gücünü birleştirerek sadece bir kaç satırda, okunabilir bir kod ile problemimizi çözdük.**
+
+[www.patikadev.tr](https://www.patika.dev/tr)
