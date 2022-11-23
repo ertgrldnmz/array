@@ -2,7 +2,7 @@
 
 Aynı tipteki verileri bellekte yan yana saklamak istediğimizde dizilerden faydalanırız. Değişkenler kullanılarak karmaşık şekilde çözülebilecek problemler diziler yardımıyla çok daha kolay bir şekilde çözülebilir.
 
-** Dizi index'i 0'dan başlar. Yani 5 elemanlı bir dizinin ilk elemanı 0. indexte sonuncu elemanı 4. indextedir.**
+**Dizi index'i 0'dan başlar. Yani 5 elemanlı bir dizinin ilk elemanı 0. indexte sonuncu elemanı 4. indextedir.**
 
 ```csharp int[] sayilar = new int[10];
 sayilar[2] = 12;
